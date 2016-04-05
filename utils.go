@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"gopkg.in/dancannon/gorethink.v1/encoding"
+	"github.com/russmatney/gorethink/encoding"
 
 	p "gopkg.in/dancannon/gorethink.v1/ql2"
 )
